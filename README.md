@@ -28,11 +28,8 @@
 
 </div>
 <!-- BEGIN YOUTUBE-CARDS -->
-[![INSANE 1v4 CLUTCH! #Valorant #Clutch #Gaming #epicmoments](https://ytcards.demolab.com/?id=N7kn875udfw&title=INSANE+1v4+CLUTCH%21+%23Valorant+%23Clutch+%23Gaming+%23epicmoments&lang=en&timestamp=1730548826&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "INSANE 1v4 CLUTCH! #Valorant #Clutch #Gaming #epicmoments")](https://www.youtube.com/watch?v=N7kn875udfw)
-[![SCARY CLUTCH! #Valorant #Gaming #epicmoments](https://ytcards.demolab.com/?id=iHrTiqe-dM0&title=SCARY+CLUTCH%21+%23Valorant+%23Gaming+%23epicmoments&lang=en&timestamp=1730462454&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "SCARY CLUTCH! #Valorant #Gaming #epicmoments")](https://www.youtube.com/watch?v=iHrTiqe-dM0)
-[![Satisfying save round Win! #Valorant #Gaming #epicmoments](https://ytcards.demolab.com/?id=PB5HSf8GSmI&title=Satisfying+save+round+Win%21+%23Valorant+%23Gaming+%23epicmoments&lang=en&timestamp=1730376026&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Satisfying save round Win! #Valorant #Gaming #epicmoments")](https://www.youtube.com/watch?v=PB5HSf8GSmI)
-[![Satisfying Ace! #Valorant #Ace #Gaming #epicmoments](https://ytcards.demolab.com/?id=-uQC3WtgwzI&title=Satisfying+Ace%21+%23Valorant+%23Ace+%23Gaming+%23epicmoments&lang=en&timestamp=1730289600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Satisfying Ace! #Valorant #Ace #Gaming #epicmoments")](https://www.youtube.com/watch?v=-uQC3WtgwzI)
-[![INSANE 1v4 CLUTCH! #Valorant #clutch #Gaming #epicmoments](https://ytcards.demolab.com/?id=4_1O1NvWXKk&title=INSANE+1v4+CLUTCH%21+%23Valorant+%23clutch+%23Gaming+%23epicmoments&lang=en&timestamp=1730203210&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "INSANE 1v4 CLUTCH! #Valorant #clutch #Gaming #epicmoments")](https://www.youtube.com/watch?v=4_1O1NvWXKk)
-[![Poor Neon 🫢 #valorant](https://ytcards.demolab.com/?id=BVo0HkDhBPY&title=Poor+Neon+%F0%9F%AB%A2+%23valorant&lang=en&timestamp=1730116810&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Poor Neon 🫢 #valorant")](https://www.youtube.com/watch?v=BVo0HkDhBPY)
+## YouTube Subscribers
+![YouTube Subscriber Count](https://img.shields.io/youtube/channel/subscribers/UCUnoa6RxPcVHF_Hjzvtq9Dg?style=social)
+
 <!-- END YOUTUBE-CARDS -->
 

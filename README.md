@@ -33,6 +33,7 @@
 </div>
   
 <h1 align="center">Hobbies</h3>
+
 <div align="center">
 
 
@@ -41,7 +42,7 @@
 
 <img src="https://img.shields.io/youtube/channel/subscribers/UCUnoa6RxPcVHF_Hjzvtq9Dg?style=social" alt="YouTube Subscriber Count" width="200" height="auto">
 
-
+<br>
 <!-- END YOUTUBE-CARDS -->
 
 <!-- BEGIN DuoLingo Card -->

@@ -9,7 +9,11 @@
 </div>
 
 ###
-<img src="https://raw.githubusercontent.com/rafidrahman1/rafidrahman1/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafidrahman1/rafidrahman1/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafidrahman1/rafidrahman1/output/snake-light.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/rafidrahman1/rafidrahman1/output/snake-dark.svg" />
+</picture>
 
 
 

@@ -2,12 +2,12 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
-    <img src="https://streak-stats.demolab.com?user=rafidrahman1&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" width="47%" height="195" alt="streak graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafidrahman1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" width="47%" height="195" alt="languages graph" />
-  </div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafidrahman1&theme=one-dark&hide_border=true&radius=10" width="94%" alt="activity-graph graph" />
+  <img src="https://streak-stats.demolab.com?user=rafidrahman1&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafidrahman1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafidrahman1&theme=one-dark&hide_border=true&radius=10&area=false" height="" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -53,3 +53,74 @@
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/rafidrahman1/rafidrahman1/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rafidrahman1.rafidrahman1&"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/rafidrahman1/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/rafidrahman1/count.svg?"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=rafidrahman1" alt="Layout with last medium posts"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafidrahman1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafidrahman1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+</div>
+
+###

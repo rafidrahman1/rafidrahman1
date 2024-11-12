@@ -18,7 +18,24 @@
 </picture>
 </div>
 
+<div align="center">
+  <a href="https://github.com/KevzPeter/Duolingo-Stats-Card">
+    <img src="https://duolingo-stats-card.vercel.app/api?username=Kevin_Peter&sort=xp" alt="Logo">
+  </a>
 
+  <h3 align="center">Duolingo Stats Card</h3>
+
+  <p align="center">
+    🦉 A real-time, customizable Duolingo widget that you can embed on your website or markdown files ✨
+    <br />
+    <br />
+    <a href="https://duolingo-stats-card.vercel.app/">✨ View Demo</a>
+    ·
+    <a href="https://github.com/KevzPeter/duolingo-stats-card/issues">🐛 Report Bug</a>
+    ·
+    <a href="https://github.com/KevzPeter/duolingo-stats-card/issues">💁🏽 Request Feature</a>
+  </p>
+</div>
 
 
 

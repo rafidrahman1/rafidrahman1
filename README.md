@@ -28,7 +28,7 @@
 
 </div>
 <!-- BEGIN YOUTUBE-CARDS -->
-## YouTube Subscribers
+
 ![YouTube Subscriber Count](https://img.shields.io/youtube/channel/subscribers/UCUnoa6RxPcVHF_Hjzvtq9Dg?style=social)
 
 <!-- END YOUTUBE-CARDS -->

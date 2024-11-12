@@ -1,7 +1,7 @@
  
 
 
-<div align="start">
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=rafidrahman1&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" />
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=rafidrahman1&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5" />

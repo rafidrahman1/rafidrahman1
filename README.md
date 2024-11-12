@@ -1,9 +1,9 @@
+ 
+<div align="start">
+  <img src="https://duolingo-stats-card.vercel.app/api?username=rafidrahman1&sort=xp" alt="Logo" width="300" height="150">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafidrahman1/rafidrahman1/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafidrahman1/rafidrahman1/output/snake-light.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/rafidrahman1/rafidrahman1/output/snake-dark.svg" />
-</picture>
+
+</div>
 
 <div align="start">
 <picture>
@@ -18,11 +18,15 @@
     
 </picture>
  </div>
-<div align="start">
-  <img src="https://duolingo-stats-card.vercel.app/api?username=rafidrahman1&sort=xp" alt="Logo" width="300" height="150">
 
 
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafidrahman1/rafidrahman1/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafidrahman1/rafidrahman1/output/snake-light.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/rafidrahman1/rafidrahman1/output/snake-dark.svg" />
+</picture>
+
+
 <!-- BEGIN YOUTUBE-CARDS -->
 
 <!-- END YOUTUBE-CARDS -->

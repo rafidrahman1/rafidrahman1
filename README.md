@@ -39,7 +39,8 @@
  
 <!-- BEGIN YOUTUBE-CARDS -->
 
-![YouTube Subscriber Count](https://img.shields.io/youtube/channel/subscribers/UCUnoa6RxPcVHF_Hjzvtq9Dg?style=social)
+<img src="https://img.shields.io/youtube/channel/subscribers/UCUnoa6RxPcVHF_Hjzvtq9Dg?style=social" alt="YouTube Subscriber Count" width="500" height="250">
+
 
 <!-- END YOUTUBE-CARDS -->
 

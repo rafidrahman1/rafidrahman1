@@ -5,7 +5,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/rafidrahman1/rafidrahman1/output/snake-dark.svg" />
 </picture>
 
-<div align="center">
+<div align="start">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=rafidrahman1&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" />
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=rafidrahman1&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5" />

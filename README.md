@@ -28,8 +28,13 @@
 
 </div>
 <!-- BEGIN YOUTUBE-CARDS -->
+# Welcome to My GitHub Profile
+
+Here is my current YouTube subscriber count:
 
 ![YouTube Subscriber Card](https://github-readme-youtube-cards.vercel.app/api?channel_id=UCUnoa6RxPcVHF_Hjzvtq9Dg)
+
+Stay updated with my latest videos!
 
 <!-- END YOUTUBE-CARDS -->
 

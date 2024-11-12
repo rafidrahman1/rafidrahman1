@@ -54,7 +54,8 @@
 
 </div>
 
-[Check out my Valorant Stats](https://tracker.gg/valorant/profile/riot/Bebi%20Gorl%232020/overview)
+![Valorant Stats Badge](https://img.shields.io/badge/Valorant%20Stats-Bebi%20Gorl-blue)
+
 
 
 

@@ -54,7 +54,7 @@
 
 </div>
 
-![Valorant Stats Badge](https://img.shields.io/badge/Valorant%20Stats-Bebi%20Gorl-blue)
+
 
 
 

@@ -2,23 +2,11 @@
 
 ###
 
-<div className="flex flex-row items-center justify-center gap-4 w-full overflow-x-auto p-4">
-      <img
-        src="https://streak-stats.demolab.com?user=rafidrahman1&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5"
-        alt="streak graph"
-        className="h-36 w-33.3%"
-      />
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=rafidrahman1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true"
-        alt="languages graph"
-        className="h-36 w-33.3%"
-      />
-      <img
-        src="https://github-readme-activity-graph.vercel.app/graph?username=rafidrahman1&theme=one-dark&hide_border=true&radius=10"
-        alt="activity-graph"
-        className="h-36 w-33.3%"
-      />
-    </div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=rafidrahman1&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafidrahman1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafidrahman1&theme=one-dark&hide_border=true&radius=10" height="150" alt="activity-graph graph"  />
+</div>
 
 ###
 

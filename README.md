@@ -37,6 +37,9 @@
 <div align="center">
 
 
+<!-- BEGIN DuoLingo Card -->
+  <img src="https://duolingo-stats-card.vercel.app/api?username=rafidrahman1&sort=xp&theme=dark" alt="Logo" width="300" height="auto">
+<!-- END DuoLingo Card -->
  
 <!-- BEGIN YOUTUBE-CARDS -->
 
@@ -45,9 +48,6 @@
 <br>
 <!-- END YOUTUBE-CARDS -->
 
-<!-- BEGIN DuoLingo Card -->
-  <img src="https://duolingo-stats-card.vercel.app/api?username=rafidrahman1&sort=xp&theme=dark" alt="Logo" width="300" height="auto">
-<!-- END DuoLingo Card -->
 
 
 

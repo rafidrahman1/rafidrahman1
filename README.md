@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rafid Rahman and I'm a Frontend Developer, from Dhaka, Bangladesh.</h2>
+<h2 align="left">Hi 👋!</h2>
 
 ###
 

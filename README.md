@@ -4,8 +4,8 @@
 
 <div align="center">
   <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
-    <img src="https://streak-stats.demolab.com?user=rafidrahman1&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" width="47%" max-height="10px" alt="streak graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafidrahman1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" width="47%" max-height="10px" alt="languages graph" />
+    <img src="https://streak-stats.demolab.com?user=rafidrahman1&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" width="47%" max-height="1px" alt="streak graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafidrahman1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" width="47%" max-height="1px" alt="languages graph" />
   </div>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafidrahman1&theme=one-dark&hide_border=true&radius=10" width="94%" alt="activity-graph graph" />
 </div>

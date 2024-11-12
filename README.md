@@ -22,6 +22,8 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/rafidrahman1/rafidrahman1/output/snake-dark.svg" />
 </picture>
 </div>
+
+<h3>Hobbies</h3>
 <div align="center">
   <img src="https://duolingo-stats-card.vercel.app/api?username=rafidrahman1&sort=xp" alt="Logo" width="300" height="150">
 

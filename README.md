@@ -1,9 +1,5 @@
  
-<div align="start">
-  <img src="https://duolingo-stats-card.vercel.app/api?username=rafidrahman1&sort=xp" alt="Logo" width="300" height="150">
 
-
-</div>
 
 <div align="start">
 <picture>
@@ -26,7 +22,11 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/rafidrahman1/rafidrahman1/output/snake-dark.svg" />
 </picture>
 
+<div align="start">
+  <img src="https://duolingo-stats-card.vercel.app/api?username=rafidrahman1&sort=xp" alt="Logo" width="300" height="150">
 
+
+</div>
 <!-- BEGIN YOUTUBE-CARDS -->
 
 <!-- END YOUTUBE-CARDS -->

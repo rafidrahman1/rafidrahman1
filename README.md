@@ -38,4 +38,4 @@
 </div>
 
 
-![YouTube Subscriber Count](https://tracker.gg/overlays/overlay/b4f52e53-2ba6-4758-a9c8-7b4459904572)
+![Game Stats Overlay](https://tracker.gg/overlays/overlay/b4f52e53-2ba6-4758-a9c8-7b4459904572)

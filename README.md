@@ -54,76 +54,7 @@
 
 </div>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Profile Integration</title>
+<iframe src=" https://tracker.gg/overlays/overlay/b4f52e53-2ba6-4758-a9c8-7b4459904572">
+
   
-  <!-- External JavaScript -->
-  <script src="https://trackercdn.com/static-files/trackergg/production/dist/client/assets/index-DmvlUCl7.js"></script>
-  
-  <!-- External CSS -->
-  <link rel="stylesheet" href="https://trackercdn.com/static-files/trackergg/production/dist/client/assets/CrlSt9kc.css">
-  
-  <!-- Additional Custom Styles (if needed) -->
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-      background-color: #f4f4f4;
-    }
-    #app-container {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      background-color: #eaeaea;
-    }
-    #app {
-      width: 80%;
-      max-width: 1200px;
-      background-color: #fff;
-      border-radius: 8px;
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    }
-    .render-overlay {
-      position: relative;
-      background-color: #000;
-      color: white;
-      padding: 20px;
-      border-radius: 8px;
-    }
-    .overlay {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 200px;
-      background-color: rgba(0, 0, 0, 0.6);
-      border-radius: 8px;
-    }
-    .overlay .content {
-      text-align: center;
-      font-size: 18px;
-    }
-  </style>
-</head>
-<body>
-  <div id="app-container">
-    <div id="app">
-      <div class="render-overlay">
-        <div>
-          <div class="overlay" preview="false" titleslug="valorant">
-            <div class="content">
-              <h2>Valorant Player Profile</h2>
-              <p>Welcome to my Valorant profile! Track my stats and progress.</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</body>
-</html>
+

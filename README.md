@@ -24,5 +24,5 @@
   </a>
 </div>
 
-<img alt="github-youtube" src="https://raw.githubusercontent.com/rafidrahman1/rafidrahman1/output/youtube.svg" />
+<img alt="github-youtube" src="https://raw.githubusercontent.com/rafidrahman1/rafidrahman1/output/youtube-cards.svg" />
 

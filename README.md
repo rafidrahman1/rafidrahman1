@@ -37,4 +37,4 @@
 
 </div>
 
-<img alt="github-snake" src="https://tracker.gg/overlays/overlay/b4f52e53-2ba6-4758-a9c8-7b4459904572" />
+<img src="https://tracker.gg/overlays/overlay/b4f52e53-2ba6-4758-a9c8-7b4459904572" />

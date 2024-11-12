@@ -1,5 +1,5 @@
  
-
+<h1 align="center">Stats</h3>
 
 <div align="center">
 <picture>
@@ -14,7 +14,7 @@
     
 </picture>
  </div>
-
+<h1 align="center">Contributions</h3>
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafidrahman1/rafidrahman1/output/snake-dark.svg" />

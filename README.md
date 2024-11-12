@@ -9,10 +9,8 @@
 </div>
 
 ###
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://raw.githubusercontent.com/rafidrahman1/rafidrahman1/output/snake.svg" alt="Snake animation" width="85%" />
-  <img src="https://i.imgflip.com/65efzo.gif" height="150" alt="Gif" />
-</div>
+<img src="https://raw.githubusercontent.com/rafidrahman1/rafidrahman1/output/snake.svg" alt="Snake animation" />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 

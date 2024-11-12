@@ -22,14 +22,15 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/rafidrahman1/rafidrahman1/output/snake-dark.svg" />
 </picture>
 </div>
-<div align="start">
+<div align="center">
   <img src="https://duolingo-stats-card.vercel.app/api?username=rafidrahman1&sort=xp" alt="Logo" width="300" height="150">
 
 
-</div>
+
 <!-- BEGIN YOUTUBE-CARDS -->
 
 ![YouTube Subscriber Count](https://img.shields.io/youtube/channel/subscribers/UCUnoa6RxPcVHF_Hjzvtq9Dg?style=social)
 
 <!-- END YOUTUBE-CARDS -->
 
+</div>

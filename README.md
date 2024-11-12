@@ -19,7 +19,7 @@
 </picture>
  
 
-  <img src="https://duolingo-stats-card.vercel.app/api?username=rafidrahman1&sort=xp" alt="Logo" width="200" height="150">
+  <img src="https://duolingo-stats-card.vercel.app/api?username=rafidrahman1&sort=xp" alt="Logo" width="500" height="150">
 
 
 

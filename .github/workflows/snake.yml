@@ -23,7 +23,7 @@ jobs:
         with:
           github_user_name: rafidrahman1
           outputs: |
-            dist/snake-light.svg?color_snake=333&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/snake-light.svg?color_snake=#fcffed&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
       - name: Generate snake.svg for dark mode
         uses: Platane/snk/svg-only@v3

@@ -18,7 +18,7 @@
 </picture>
 </div>
 
-<div align="center">
+<div align="center" style="max-height: 1rem">
   <a href="https://github.com/KevzPeter/Duolingo-Stats-Card">
     <img src="https://duolingo-stats-card.vercel.app/api?username=rafidrahman1&sort=xp" alt="Logo">
   </a>

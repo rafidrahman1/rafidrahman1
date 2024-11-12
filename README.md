@@ -28,10 +28,8 @@
 
 </div>
 <!-- BEGIN YOUTUBE-CARDS -->
-<a href="https://www.youtube.com/@rafidrahman1">
- <div>
+
 ![YouTube Subscriber Count](https://img.shields.io/youtube/channel/subscribers/UCUnoa6RxPcVHF_Hjzvtq9Dg?style=social)
-  </div>
-</a>
+
 <!-- END YOUTUBE-CARDS -->
 

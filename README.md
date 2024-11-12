@@ -2,10 +2,10 @@
 
 ###
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://streak-stats.demolab.com?user=rafidrahman1&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" width="380" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafidrahman1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" width="320" alt="languages graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafidrahman1&theme=one-dark&hide_border=true&radius=10" height="150" width="380" alt="activity-graph graph" />
+<div align="center" style="width: 100%; display: flex; justify-content: center; flex-wrap: nowrap;">
+  <img src="https://streak-stats.demolab.com?user=rafidrahman1&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" width="30%" alt="streak graph" style="margin: 0 5px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafidrahman1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" width="30%" alt="languages graph" style="margin: 0 5px;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafidrahman1&theme=one-dark&hide_border=true&radius=10" height="150" width="30%" alt="activity-graph graph" style="margin: 0 5px;" />
 </div>
 
 ###

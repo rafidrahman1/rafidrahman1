@@ -25,7 +25,8 @@
 
 <h1 align="center">Hobbies</h3>
 <div align="center">
-  <img src="https://duolingo-stats-card.vercel.app/api?username=rafidrahman1&sort=xp" alt="Logo" width="300" height="150">
+  <img src="https://duolingo-stats-card.vercel.app/api?username=rafidrahman1&sort=xp&theme=dark" alt="Logo" width="300" height="150">
+
 
 
 

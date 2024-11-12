@@ -1,0 +1,50 @@
+
+name: Update Overlay Image
+on:
+  schedule:
+    # Runs every 6 hours
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-overlay:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      # Check out the repository to allow image commits
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      # Use a tool like Puppeteer to capture the overlay as an image
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install Dependencies
+        run: |
+          npm install puppeteer
+
+      - name: Capture Overlay Image
+        run: |
+          node -e "
+          const puppeteer = require('puppeteer');
+          (async () => {
+            const browser = await puppeteer.launch();
+            const page = await browser.newPage();
+            await page.goto('https://tracker.gg/overlays/overlay/b4f52e53-2ba6-4758-a9c8-7b4459904572', { waitUntil: 'networkidle2' });
+            await page.screenshot({ path: 'overlay.png', fullPage: true });
+            await browser.close();
+          })();
+          "
+
+      # Commit the updated image
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+          git add overlay.png
+          git commit -m 'Updated overlay image'
+          git push

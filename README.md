@@ -17,8 +17,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafidrahman1&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=default&hide_border=true" height="150" alt="languages graph" />
     
 </picture>
- 
-
+ </div>
+<div align="start">
   <img src="https://duolingo-stats-card.vercel.app/api?username=rafidrahman1&sort=xp" alt="Logo" width="300" height="150">
 
 

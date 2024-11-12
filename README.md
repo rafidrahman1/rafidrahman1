@@ -40,7 +40,7 @@
  
 <!-- BEGIN YOUTUBE-CARDS -->
 
-<img src="https://img.shields.io/youtube/channel/subscribers/UCUnoa6RxPcVHF_Hjzvtq9Dg?style=social" alt="YouTube Subscriber Count" width="200" height="auto" margin-bottom="10px">
+<img src="https://img.shields.io/youtube/channel/subscribers/UCUnoa6RxPcVHF_Hjzvtq9Dg?style=social" alt="YouTube Subscriber Count" width="200" height="auto" margin-bottom="133px">
 
 <br>
 <!-- END YOUTUBE-CARDS -->

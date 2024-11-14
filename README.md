@@ -4,8 +4,8 @@
 <div align="center">
   <!-- BEGIN stats -->
 <picture>
-<!--   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=rafidrahman1&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=rafidrahman1&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5" /> -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=rafidrahman1&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=rafidrahman1&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5" />
   <img src="https://streak-stats.demolab.com?user=rafidrahman1&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5" height="150" alt="streak graph" />
 </picture>
 <picture>

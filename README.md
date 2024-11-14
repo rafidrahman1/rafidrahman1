@@ -33,16 +33,6 @@
 <div align="center">
 
 
-<!-- BEGIN DuoLingo Card -->
-  <img src="https://duolingo-stats-card.vercel.app/api?username=rafidrahman1&sort=xp&theme=dark" alt="Logo" width="300" height="auto">
-<!-- END DuoLingo Card -->
- <br>
-<!-- BEGIN YOUTUBE-CARDS -->
-
-<img src="https://img.shields.io/youtube/channel/subscribers/UCUnoa6RxPcVHF_Hjzvtq9Dg?style=social" alt="YouTube Subscriber Count" width="200" height="auto">
-
-
-<!-- END YOUTUBE-CARDS -->
 
 
 

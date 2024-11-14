@@ -28,17 +28,7 @@
   <!-- End Snake -->
 </div>
   
-<h1 align="center">Hobbies</h3>
 
-<div align="center">
-
-
-
-
-
-
-
-</div>
 
 
 

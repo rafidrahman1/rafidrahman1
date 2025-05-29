@@ -1,8 +1,7 @@
-
+ <!--
 <h1 align="center">Stats</h3>
 
 <div align="center">
-  <!-- BEGIN stats -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=rafidrahman1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" />
@@ -11,10 +10,10 @@
     
 </picture>
 
-  <!-- END stats -->
+
  </div>
 
-
+-->
 
   <!--
 <h1 align="center">Contributions</h3>
